@@ -48,5 +48,5 @@ A flowchart is a graphical representation of an algorithm.it should follow some 
  
 
 *Using these symbols we are going to some*
-[Questions](https://github.com/VaibhavGoyal01/cpp-dsa-journey/edit/main/DAY-1/Flow-Charts/questions.md)
+[Questions](https://github.com/VaibhavGoyal01/cpp-dsa-journey/edit/main/DAY-1/Flow-Charts/Questions.md)
   
