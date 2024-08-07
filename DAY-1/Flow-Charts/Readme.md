@@ -40,11 +40,6 @@ A flowchart is a graphical representation of an algorithm.it should follow some 
 - If changes are done in software, then the flowchart must be redrawn
  
 
-*Using these symbols we are going to some questions*
-
-## Simple Interest 
-  Given the values of principal,rate and time you need to design an algorithm to compute the SI and express it via flow chart 
-  
-  ![image](https://github.com/user-attachments/assets/57e58d99-8b71-46bb-9434-68f4b6f11c8f)
-
+*Using these symbols we are going to some*
+[Questions](https://github.com/VaibhavGoyal01/cpp-dsa-journey/edit/main/DAY-1/Flow-Charts/questions.md)
   
