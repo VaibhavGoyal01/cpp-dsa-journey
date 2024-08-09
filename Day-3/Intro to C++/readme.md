@@ -70,10 +70,30 @@ int main() {          // Main function, the entry point of the program
 }
 ```
 ### Explanation
-```#include <iostream>:``` This line is a preprocessor directive that includes the Input/Output stream library, which is necessary for outputting text to the console.
+```#include <iostream>```: This line is a preprocessor directive that includes the Input/Output stream library, which is necessary for outputting text to the console.
 
-```int main():``` This is the main function of the program where execution starts. Every C++ program must have a ```main()``` function.
+```int main()```: This is the main function of the program where execution starts. Every C++ program must have a ```main()``` function.
 
-```std::cout:``` This is an object of the output stream class in the ```iostream``` library, used here to print ```"Hello, World!"``` to the console.
+```std::cout```: This is an object of the output stream class in the ```iostream``` library, used here to print "Hello, World!" to the console.
 
-```return 0:``` This statement ends the ```main()``` function and returns the value 0 to the operating system, indicating that the program executed successfully.
+```return 0```: This statement ends the ```main()``` function and returns the value 0 to the operating system, indicating that the program executed successfully.
+
+# ```Using namespace std;```
+In C++, the std namespace is used to access the Standard Library, which includes features such as the input/output streams (std::cin, std::cout, etc.), containers (like std::vector, std::map), and functions (like std::sort).
+
+Namespaces are a way to organize code and prevent name conflicts by grouping entities like classes, objects, and functions under a unique name. The std namespace is the standard namespace used by the C++ Standard Library.
+
+Usage in Code
+To avoid having to type std:: before every Standard Library object or function, you can use the using namespace std; statement:
+
+```cpp
+Copy code
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello, World!"; // No need to use std:: before cout
+    return 0;
+}
+```
