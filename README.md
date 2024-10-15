@@ -5,4 +5,3 @@ Join me on my daily journey as I explore C++ programming and Data Structures &am
 
 ![image](https://github.com/user-attachments/assets/bb58b3f7-7b07-4809-b8d7-ab818cd1e35a)
 
-![image](https://github.com/user-attachments/assets/d67b74ba-4b9b-45a7-932c-b537a965cccb)
